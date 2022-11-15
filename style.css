@@ -25,6 +25,7 @@ body{
 #maintitle{
     gap: 20px;
     font-weight: 900;
+    justify-self: left;
 }
 a{
   text-decoration: none;
