@@ -12,9 +12,15 @@
     gap: 50px;
     justify-content: flex-end;
     justify-content: space-around;
+    list-style-type: none;
+    color: black;
+    
 }
 #maintitle{
     gap: 20px;
+}
+a{
+  text-decoration: none;
 }
     
     
