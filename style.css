@@ -1,3 +1,11 @@
 #headercontainer{
-    display:flex;
+    display: flex;
+    background-color: aqua;
+   
+}
+#headerhyperlinks, ul{
+    display: flex;
+    flex: 1 1 auto;
+    gap: 50px;
+    justify-content: flex-end;
 }
