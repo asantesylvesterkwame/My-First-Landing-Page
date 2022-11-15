@@ -10,7 +10,7 @@ body{
 #headercontainer{
     display: flex;
     background-color: #1f2937;
-    height: 500px;
+    height: 800px;
     flex-wrap: wrap;
    
 }
@@ -39,5 +39,5 @@ a{
     font-size: 48px;
 }
  #mainimage{
-    background-color: #E5E7Eb;
+   
  }   
