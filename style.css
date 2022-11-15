@@ -1,6 +1,6 @@
 #headercontainer{
     display: flex;
-    background-color: aqua;
+    background-color: #00aeff;
    
 }
 #headerhyperlinks, ul{
@@ -8,4 +8,9 @@
     flex: 1 1 auto;
     gap: 50px;
     justify-content: flex-end;
+    justify-content: space-around;
+}
+#maintitle{
+    display: flex;
+    
 }
