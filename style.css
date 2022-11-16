@@ -51,12 +51,10 @@ a{
  }  
 #projectimages{
     display: flex;
-    
-    
+  
     
 }
-#daw, #mic, #music{
-    padding-top: 0%;
-    padding-bottom: 0%;
-    border: 4px solid #3882F6;
+#daw, #mic, #music, img{
+    box-shadow: 2px 4px 8px #1f2937;
+
 }
